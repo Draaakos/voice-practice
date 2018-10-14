@@ -39,7 +39,9 @@ section {
     min-height: 20px;
 }
 
-
+.division__exercise:hover {
+    cursor: pointer;
+}
 
 
 .correct {
